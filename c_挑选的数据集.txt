@@ -1,0 +1,10 @@
+./CRWU_CSV/12k_Drive_End_B007_0_118_X118_DE_time.csv
+./CRWU_CSV/12k_Drive_End_B014_0_185_X185_DE_time.csv
+./CRWU_CSV/12k_Drive_End_B021_0_222_X222_DE_time.csv
+./CRWU_CSV/12k_Drive_End_IR007_0_105_X105_DE_time.csv
+./CRWU_CSV/12k_Drive_End_IR014_0_169_X169_DE_time.csv
+./CRWU_CSV/12k_Drive_End_IR021_0_209_X209_DE_time.csv
+./CRWU_CSV/12k_Drive_End_OR007@6_0_130_X130_DE_time.csv
+./CRWU_CSV/12k_Drive_End_OR014@6_0_197_X197_DE_time.csv
+./CRWU_CSV/12k_Drive_End_OR021@6_0_234_X234_DE_time.csv
+./CRWU_CSV/normal_0_97_X097_DE_time.csv
